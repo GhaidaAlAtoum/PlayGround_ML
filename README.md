@@ -1,8 +1,7 @@
 # PlayGround_ML
 
-Test
+Helpful commands: 
 
-Tes
-
-
-t
+```bash
+git config credential.helper 'cache --timeout 7200'
+```
