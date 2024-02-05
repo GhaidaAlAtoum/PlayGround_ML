@@ -1,0 +1,4 @@
+integrations:
+  embed:
+    type: dataset
+    ref: paperspace/dsyov4vz1ybemob:latest
