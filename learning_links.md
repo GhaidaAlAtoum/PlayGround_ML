@@ -6,3 +6,4 @@
 * [Understanding Word Embeddings and Building your First RNN Model](https://www.analyticsvidhya.com/blog/2022/09/understanding-word-embeddings-and-building-your-first-rnn-model/)
 * [N-gram CNN model for sentimental analysis](https://saifgazali.medium.com/n-gram-cnn-model-for-sentimental-analysis-bb2aadd5dcb0)
 * [Sentiment Analysis: Using Convolutional Neural Networks](https://d2l.ai/chapter_natural-language-processing-applications/sentiment-analysis-cnn.html)
+* [NLP For You](https://lena-voita.github.io/nlp_course.html#preview_seq2seq_attn)
