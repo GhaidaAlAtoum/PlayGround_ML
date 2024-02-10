@@ -3,7 +3,12 @@
 pip install pytz==2021.1
 pip install plotly
 pip install ConceptNet
+pip install pydot
+
 
 pip install jupyter_contrib_nbextensions
 jupyter contrib nbextension install --user
 jupyter nbextension enable varInspector/main
+
+
+# <author(s) names> (<date>) <title of program/source code> (<code version>) [<type>]. Web address or publisher.
