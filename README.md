@@ -4,7 +4,10 @@ pip install pytz==2021.1
 pip install plotly
 pip install ConceptNet
 pip install pydot
+pip install tensorflow-addons
 
+
+nvidia-smi --query-gpu=memory.used --format=csv 
 
 pip install jupyter_contrib_nbextensions
 jupyter contrib nbextension install --user
